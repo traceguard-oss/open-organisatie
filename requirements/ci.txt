@@ -87,7 +87,7 @@ celery==5.5.3
     #   -r requirements/type-checking.txt
     #   flower
     #   notifications-api-common
-certifi==2025.6.15
+certifi==2026.10.23
     # via
     #   -c requirements/base.txt
     #   -r requirements/base.txt
@@ -901,7 +901,7 @@ pygments==2.20.0
     #   rich
     #   sphinx
     #   sphinx-tabs
-pyjwt==2.13.0
+pyjwt==2.15.1
     # via
     #   -c requirements/base.txt
     #   -r requirements/base.txt
@@ -1176,7 +1176,7 @@ textile==4.0.3
     #   -r requirements/base.txt
     #   -r requirements/type-checking.txt
     #   django-markup
-tornado==6.5.7
+tornado==6.6
     # via
     #   -c requirements/base.txt
     #   -r requirements/base.txt
@@ -1231,7 +1231,7 @@ uritemplate==4.2.0
     #   -r requirements/base.txt
     #   -r requirements/type-checking.txt
     #   drf-spectacular
-urllib3==2.7.0
+urllib3==2.8.0
     # via
     #   -c requirements/base.txt
     #   -r requirements/base.txt
